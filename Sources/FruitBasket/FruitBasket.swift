@@ -1,3 +1,3 @@
-struct FruitBasketPackage {
+struct FruitBasket {
     var text = "Hello, World!"
 }
